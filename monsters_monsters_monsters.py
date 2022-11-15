@@ -1,0 +1,6 @@
+print("Hello there adventurer! ")
+name = input("What is your name?")
+print(f"It's nice to meet you {name}")
+print("I am your guide Sage.")
+print("There are three routes you can take to access the treasure. ")
+print("1. The dark forest and you can only travel by night, 2.  ")
